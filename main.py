@@ -6,7 +6,7 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hello world and!!!!!, {name}')  # Press ⌘F8 to toggle the breakpoint.
+    print(f'Hello world a123123nd!!!!2!, {name}')  # Press ⌘F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
